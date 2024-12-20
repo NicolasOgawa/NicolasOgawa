@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre Mim
 - 🌱 **Atualmente estudando:** Análise e Desenvolvimento de Sistemas na **USJT**.
-- 🎓 **Formação:** Desenvolvimento de Sistemas pela **Etec Sapopemba**.
+- 🎓 **Formação:** Desenvolvimento de Sistemas pela **Etec**.
 - 🚀 **Ambição:** Transição para a área de programação, focado em desenvolvimento fullstack e projetos inovadores.
 
 ---
@@ -22,12 +22,6 @@
 - **Controle de Versão:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🚀 Projetos em Destaque
-- [Projeto 1 - Sistema de Gestão](https://github.com/username/projeto1): Sistema de gestão desenvolvido em Java e Spring Boot.
-- [Projeto 2 - Landing Page Interativa](https://github.com/username/projeto2): Página web responsiva usando HTML, CSS e JavaScript.
 
 ---
 
